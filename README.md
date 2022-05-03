@@ -1,5 +1,6 @@
 # Novice-Attempt-at-Data-Analytics
-<h1>Fun Findings Go Here</h1>
-</br>
+<h2>Fun Findings Go Here</h2>
+
 Please view my [LinkedIn](https://www.linkedin.com/)
-! [This is an image](https://unsplash.com/photos/2Hzmz15wGik)
+
+![image](https://user-images.githubusercontent.com/6722034/166396452-5cf858b4-3a38-450e-9b34-3d6227b9394f.png)
